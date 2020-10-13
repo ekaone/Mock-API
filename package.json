@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ekaone.github.io/Mock-API/",
   "name": "tutorial",
   "version": "0.1.0",
   "private": true,
@@ -26,7 +27,8 @@
     "start:final": "REACT_APP_DEMO=true yarn start",
     "build": "craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app",
@@ -47,6 +49,7 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/dom": "^7.16.2"
+    "@testing-library/dom": "^7.16.2",
+    "gh-pages": "^3.1.0"
   }
 }
