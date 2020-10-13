@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Mock-API/static/js/main.a1e368d9.chunk.js",
+    "main.js.map": "/Mock-API/static/js/main.a1e368d9.chunk.js.map",
+    "runtime-main.js": "/Mock-API/static/js/runtime-main.3ba14184.js",
+    "runtime-main.js.map": "/Mock-API/static/js/runtime-main.3ba14184.js.map",
+    "static/css/2.c4361303.chunk.css": "/Mock-API/static/css/2.c4361303.chunk.css",
+    "static/js/2.e07f38d2.chunk.js": "/Mock-API/static/js/2.e07f38d2.chunk.js",
+    "static/js/2.e07f38d2.chunk.js.map": "/Mock-API/static/js/2.e07f38d2.chunk.js.map",
+    "index.html": "/Mock-API/index.html",
+    "precache-manifest.e5a3e2ffcf327bc2c1c079ec6d809aa4.js": "/Mock-API/precache-manifest.e5a3e2ffcf327bc2c1c079ec6d809aa4.js",
+    "service-worker.js": "/Mock-API/service-worker.js",
+    "static/css/2.c4361303.chunk.css.map": "/Mock-API/static/css/2.c4361303.chunk.css.map",
+    "static/js/2.e07f38d2.chunk.js.LICENSE.txt": "/Mock-API/static/js/2.e07f38d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ba14184.js",
+    "static/css/2.c4361303.chunk.css",
+    "static/js/2.e07f38d2.chunk.js",
+    "static/js/main.a1e368d9.chunk.js"
+  ]
+}
